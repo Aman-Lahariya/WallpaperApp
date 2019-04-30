@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Game Wallpaper App</string>
+
+    <!--Nagigation Menu Strings-->
+    <string name="home">Home</string>
+    <string name="favourites">Favourites</string>
+    <string name="history">History</string>
+    <string name="removeAds">Remove Ads</string>
+    <string name="share">Share</string>
+    <string name="rateUs">Rate Us</string>
+    <string name="aboutMe">About Me</string>
+    <string name="report">Report</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="nav_header_welcome">Welcome!</string>
+    <string name="nav_header_signIn">Sign in</string>
+    <!--Nagigation Menu Strings Ends-->
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <!--String related to sign-in-->
+    <string name="sign_msg">Please Sign-In first !!</string>
+    <string name="logout">Logout</string>
+    <!--String related to sign-in Ends-->
+
+    <string name="no_fav">No favourite images found!</string>
+
+    <!-- Strings for ratingPopUp-->
+    <string name="do_u_like">Do you like our app ?</string>
+    <string name="rateUsBar">Please rate it 5 star to support us</string>
+    <string name="remindMe">Remind me later !</string>
+    <!-- Strings for ratingPopUp Ends-->
+
+</resources>

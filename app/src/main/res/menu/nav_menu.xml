@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/nav_home"
+        android:title="@string/home"
+        android:icon="@drawable/ic_menu_home"/>
+
+    <item
+        android:id="@+id/nav_favourites"
+        android:title="@string/favourites"
+        android:icon="@drawable/ic_menu_favorite"/>
+
+    <!--<item
+        android:id="@+id/nav_history"
+        android:title="@string/history"
+        android:icon="@drawable/ic_menu_history"/>-->
+
+    <item
+        android:id="@+id/nav_removeAds"
+        android:title="@string/removeAds"
+        android:icon="@drawable/ic_menu_remove_ads"/>
+
+    <item
+        android:id="@+id/nav_share"
+        android:title="@string/share"
+        android:icon="@drawable/ic_menu_share"/>
+
+    <item
+        android:id="@+id/nav_rateUs"
+        android:title="@string/rateUs"
+        android:icon="@drawable/ic_menu_star"/>
+
+    <item
+        android:id="@+id/nav_aboutMe"
+        android:title="@string/aboutMe"
+        android:icon="@drawable/ic_person"/>
+
+    <item
+        android:id="@+id/nav_report"
+        android:title="@string/report"
+        android:icon="@drawable/ic_menu_feedback"/>
+
+</menu>

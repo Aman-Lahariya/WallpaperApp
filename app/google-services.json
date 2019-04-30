@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "771269096222",
+    "firebase_url": "https://game-wallpaper-app.firebaseio.com",
+    "project_id": "game-wallpaper-app",
+    "storage_bucket": "game-wallpaper-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771269096222:android:4d6619a739cfc567",
+        "android_client_info": {
+          "package_name": "com.amanlahariya.dota2wallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771269096222-psf33t862h81j8s7rmr18dg841gbnntv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amanlahariya.dota2wallpaper",
+            "certificate_hash": "a592474cb692fd8764a3b553efee1fe55289013a"
+          }
+        },
+        {
+          "client_id": "771269096222-q7t7j6g3ahcdrdkumogs807p2ln7asbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOXACKjrZGAfjoe20zo3zPp6SoAElfydM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771269096222-q7t7j6g3ahcdrdkumogs807p2ln7asbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771269096222:android:4fca5764702f0c40",
+        "android_client_info": {
+          "package_name": "com.amanlahariya.gameWallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771269096222-q7t7j6g3ahcdrdkumogs807p2ln7asbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOXACKjrZGAfjoe20zo3zPp6SoAElfydM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771269096222-q7t7j6g3ahcdrdkumogs807p2ln7asbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
